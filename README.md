@@ -2,6 +2,8 @@
 
 바이브코딩 2일차 — Streamlit 자기소개 웹페이지
 
+🔗 **배포 링크**: https://goldenus38-web-kdn-app-ykpmhe.streamlit.app/
+
 소개, 기술 스택, 경력, 프로젝트, 연락처를 한 페이지에 멀티 섹션으로 구성한
 자기소개 사이트입니다.
 
