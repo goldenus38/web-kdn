@@ -133,10 +133,10 @@ def inject_css():
         #MainMenu, footer { visibility: hidden; }
 
         .hero {
-            background: linear-gradient(120deg, #FF4B4B 0%, #7b2ff7 100%);
+            background: linear-gradient(120deg, #FF4B4B 0%, #3D5A80 100%);
             border-radius: 22px; padding: 2rem 2.4rem; margin-bottom: .5rem;
             display: flex; align-items: center; gap: 1.8rem;
-            box-shadow: 0 12px 40px rgba(123,47,247,.25);
+            box-shadow: 0 12px 40px rgba(0,0,0,.35);
         }
         .hero img {
             width: 132px; height: 132px; border-radius: 50%;
