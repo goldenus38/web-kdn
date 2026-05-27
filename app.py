@@ -13,7 +13,7 @@ PROFILE = {
     "name": "홍길동",
     "title": "백엔드 개발자",
     "tagline": "데이터로 문제를 푸는 개발자입니다.",
-    "photo": "https://placehold.co/300x300?text=Profile",
+    "photo": "assets/profile.png",
     "about": (
         "안녕하세요! 저는 사용자에게 가치를 주는 서비스를 만드는 데 관심이 많은 "
         "개발자입니다. 작은 아이디어를 빠르게 프로토타입으로 만들고, 데이터를 통해 "
